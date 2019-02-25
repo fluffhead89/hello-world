@@ -1,4 +1,5 @@
 # hello-world
 hello world
 
-I am pretty new to programming but am learning Java, php, and SQL currently
+New update for completing GitHub assignment in CS 476 - Software Engineering.
+
